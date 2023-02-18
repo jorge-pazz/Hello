@@ -4,7 +4,7 @@ import Inicio from "./Paginas/Inicio";
 import SobreMim from "./Paginas/SobreMim";
 
 
-function App() {
+function AppRoutes() {
   return (
 
     <BrowserRouter>
@@ -23,4 +23,4 @@ function App() {
     
 }
 
-export default App;
+export default AppRoutes;
