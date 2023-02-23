@@ -29,6 +29,7 @@ export default function Banner(){
                     className={Style.circuloColorido}
                     src={circuloColorido}
                     aria-hidden={true}
+                    alt="Imagem Perfil Banner"
                 >
 
                 </img>
@@ -36,6 +37,7 @@ export default function Banner(){
                 <img
                     className={Style.minhaFoto}
                     src={minhaFoto}
+                    alt="Imagem Perfil Banner"
                 >
                 </img>
 
